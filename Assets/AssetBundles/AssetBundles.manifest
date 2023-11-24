@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4205613171
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modmenus
+      Dependencies: {}
